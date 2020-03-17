@@ -93,3 +93,19 @@ guide. I'll just summarize the general strategy below:
 
 ## HOW TO PLAY THE WONDERS (P. 25)
 #### TODO (it's a long section but it has lots of images)
+* What's the purpose of building wonder stages?
+    * **Deny cards to opponents.**
+    * The rewards you get is merely just a side effect of stashing a card.
+    * It's totally ok to build the first two stages in Age II, and even more so
+      when the mad scientist completed the first set in Age I; in that case,
+      you MUST remove 2 Green cards in Age II.
+* Which side should you choose?
+    * Hali, Alex and Ephesos -> always B side.
+* **Pistolero's Personal Wonder Ranking for 3-player games (P. 30):**
+    * 1. HALIKARNASSOS (B)
+    * 2. ALEXANDRIA (B), RHODOS (B)
+    * 3. BABYLOS (B), OLYMPIA (B), EPHESOS (B)
+    * 4. GIZAH (B)
+
+#### EPHESOS (P. 33)
+* . . .
