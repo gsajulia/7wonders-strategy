@@ -108,4 +108,21 @@ guide. I'll just summarize the general strategy below:
     * 4. GIZAH (B)
 
 #### EPHESOS (P. 33)
+->Regular supply of money and the low resources needed to unlock the stages.
+* If you go military, you probably won’t have time to fetch any other science card than the free Tablet.
+* If no one builds science
+    * Take the blue cards first and finish the ages with the tablets (after you took the red cards).
+* Else If have a mad scientist around
+    * Build the Tablets before the blue cards.
+* **Trading Post** card it’s good because you have the regular supply of money.
+* If you have the Trading Post card take the **Forum** because it's free.
+* With two scientific symbols you can leverage the **scientific guild** (that allow you to get 1 scientific symbol).
+* In age 2
+    * The **2 Ore** card links very well with: Compass | Theater | Hero guild.
+    * The **2 Clay** gives you: Gear | Forum for free.
+    * You need to dominate the military in age 2, not age 1.
+* Remember that the monopoly of one resource can be good, Pistoleiro give an example that you are in the 1 age, and you have to choose between Baths and wood, you already have a |stone / wood| so if you pick the wood you will have the monopoly of wood and this is the best option in this case, it also goes well with the Age 2 red card that uses 2 wood (in this strategy is good evoid that your neighbors build the Trading Post).
+
+
+#### ALEXANDRIA (P. 50)
 * . . .
